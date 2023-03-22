@@ -6,6 +6,10 @@ Currently enroled in Universiti Teknologi Malaysia, Skudai as a first year under
 A curious girl for any sort of things that caught my interest.
 For any inquiries, you can just reach me through here :arrow_down:
 
+my personal email : **wnsofea123@gmail.com**
+
+my student email : **wannursofea@graduate.utm.my**
+
 <!--
 <h3 align="left">Connect with me:</h3>
 -->
@@ -13,10 +17,21 @@ For any inquiries, you can just reach me through here :arrow_down:
 <a href="https://instagram.com/ivansofea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivansofea" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/wan-nur-sofea-mohd-hasbullah-80ba01260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wan-nur-sofea-mohd-hasbullah" height="30" width="40" /></a>
 
-
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
+<p align="left">
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wannursofea&show_icons=true&locale=en&layout=compact" alt="wannursofea" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wannursofea&show_icons=true&locale=en" alt="wannursofea" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wannursofea&" alt="wannursofea" /></p>
+
+Support 🙏
 <!--
 **wannursofea/wannursofea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 this makes the line invinsible from other to see
