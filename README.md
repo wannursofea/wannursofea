@@ -2,7 +2,7 @@
 
 My name is Wan Nur Sofea Binti Mohd Hasbullah but goes by the nickname Wano:kissing_heart:
 
-Currently enroled in Universiti Teknologi Malaysia, Skudai as a first year undergraduate for data engineering :cool:.
+Currently enroled in Universiti Teknologi Malaysia, Skudai as a third year undergraduate for data engineering :cool:.
 A curious girl for any sort of things that caught my interest.
 For any inquiries, you can just reach me through here :arrow_down:
 
